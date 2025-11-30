@@ -1,0 +1,38 @@
+{
+    "name": "Кототиндер",
+    "short_name": "Кототиндер",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Просмотр котиков",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-64.jpg",
+            "sizes": "64x64",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "icons/Icon-128.jpg",
+            "sizes": "128x128",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "icons/Icon-256.jpg",
+            "sizes": "256x256",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "icons/Icon-512.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "icons/Icon-1024.jpg",
+            "sizes": "1024x1024",
+            "type": "image/jpeg"
+        }
+    ]
+}
